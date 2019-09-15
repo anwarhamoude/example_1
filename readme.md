@@ -9,6 +9,9 @@
 
 <div>
     <p>
+        <strong>BASIC INSTRUCTIONS</strong>
+    </p>    
+    <p>
         Clone this project like any other and run the basics. 
     </p>
     <p>
@@ -27,13 +30,13 @@
 
 <div>
     <p>
-        <strong>copy and paste default.jpg into public/storage/avatars folder from public/images folder</strong>
+        Copy and paste <strong>default.jpg</strong> into <strong>public/storage/avatars</strong> folder from       <strong>public/images</strong> folder.
     </p>    
     <p>
-       make user accounts, add avatars for the user accounts, create a project and add users to projects  
+       Make user accounts, add avatars for the user accounts, create a project and add users to projects.
     </p>
     <p>
-        example.env file has outline for smtp with gmail for user account email verification, disable it if you choose
+        Preview <strong>example.env</strong> file. There you find an outline for smtp with gmail for user account email verification, disable it if you choose.
     </p>
 </div>
 
