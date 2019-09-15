@@ -7,6 +7,36 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+<div>
+    <p>
+        Clone this project like any other and run the basics. 
+    </p>
+    <p>
+        key:generate & migration
+    </p>
+</div>
+
+<div>
+    <p>
+        File uploading is using local storage. You will have to create symbolic link.
+    </p>
+    <p>
+        storage:link
+    </p>
+</div>
+
+<div>
+    <p>
+        <strong>copy and paste default.jpg into public/storage/avatars folder from public/images folder</strong>
+    </p>    
+    <p>
+       make user accounts, add avatars for the user accounts, create a project and add users to projects  
+    </p>
+    <p>
+        example.env file has outline for smtp with gmail for user account email verification, disable it if you choose
+    </p>
+</div>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
